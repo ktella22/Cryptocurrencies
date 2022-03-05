@@ -1,1 +1,3 @@
 # Cryptocurrencies
+## Overview of the project
+The purpose of this project is to understand what unsupervised learning is used for, how to process data, how to cluster, how to reduce the dimensions, and the principal components using PCA on non-ideal crypotocurrency data. The crypotocurrency data are processed to fit the unsupervised Machine Learning model and group the cryptocurrencies with clustering algorithm, and apply data visualizations on the results.
